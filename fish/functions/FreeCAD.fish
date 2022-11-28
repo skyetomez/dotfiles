@@ -1,0 +1,3 @@
+function FreeCAD --wraps='nohup ./Documents/3d_printing/FreeCAD-toponaming-Conda-Py3.9-20221028-glibc2.12-x86_64.AppImage & disown' --wraps='nohup ./home/gear/Documents/3d_printing/FreeCAD-toponaming-Conda-Py3.9-20221028-glibc2.12-x86_64.AppImage & disown' --wraps='nohup ~/Documents/3d_printing/FreeCAD-toponaming-Conda-Py3.9-20221028-glibc2.12-x86_64.AppImage & disown' --description 'alias FreeCAD=nohup ~/Documents/3d_printing/FreeCAD-toponaming-Conda-Py3.9-20221028-glibc2.12-x86_64.AppImage & disown'
+  nohup ~/Documents/3d_printing/FreeCAD-toponaming-Conda-Py3.9-20221028-glibc2.12-x86_64.AppImage & disown $argv; 
+end

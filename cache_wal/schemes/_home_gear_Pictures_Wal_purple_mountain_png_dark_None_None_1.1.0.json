@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gear/Pictures/Wal/purple_mountain.png",
+    "alpha": "100",
+    "special": {
+        "background": "#020002",
+        "foreground": "#d2b3d6",
+        "cursor": "#d2b3d6"
+    },
+    "colors": {
+        "color0": "#020002",
+        "color1": "#744279",
+        "color2": "#80477E",
+        "color3": "#7A3B81",
+        "color4": "#7B4583",
+        "color5": "#8B5392",
+        "color6": "#A467A9",
+        "color7": "#d2b3d6",
+        "color8": "#937d95",
+        "color9": "#744279",
+        "color10": "#80477E",
+        "color11": "#7A3B81",
+        "color12": "#7B4583",
+        "color13": "#8B5392",
+        "color14": "#A467A9",
+        "color15": "#d2b3d6"
+    }
+}

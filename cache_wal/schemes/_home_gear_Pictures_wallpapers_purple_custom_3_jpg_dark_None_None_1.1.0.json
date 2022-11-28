@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gear/Pictures/wallpapers/purple_custom_3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#3f2c23",
+        "foreground": "#e7daf6",
+        "cursor": "#e7daf6"
+    },
+    "colors": {
+        "color0": "#3f2c23",
+        "color1": "#B68BF0",
+        "color2": "#D8B1D6",
+        "color3": "#C39BF5",
+        "color4": "#D0AFF9",
+        "color5": "#DDC3FE",
+        "color6": "#EAD6EC",
+        "color7": "#e7daf6",
+        "color8": "#a198ac",
+        "color9": "#B68BF0",
+        "color10": "#D8B1D6",
+        "color11": "#C39BF5",
+        "color12": "#D0AFF9",
+        "color13": "#DDC3FE",
+        "color14": "#EAD6EC",
+        "color15": "#e7daf6"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/gear/Pictures/wallpapers/MXSyPMM.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#221b3c",
+        "foreground": "#e6e6e0",
+        "cursor": "#e6e6e0"
+    },
+    "colors": {
+        "color0": "#221b3c",
+        "color1": "#5691D4",
+        "color2": "#E1A296",
+        "color3": "#D0ADA0",
+        "color4": "#9AA9D2",
+        "color5": "#B3C7D4",
+        "color6": "#D2D6D2",
+        "color7": "#e6e6e0",
+        "color8": "#a1a19c",
+        "color9": "#5691D4",
+        "color10": "#E1A296",
+        "color11": "#D0ADA0",
+        "color12": "#9AA9D2",
+        "color13": "#B3C7D4",
+        "color14": "#D2D6D2",
+        "color15": "#e6e6e0"
+    }
+}
