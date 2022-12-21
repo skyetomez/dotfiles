@@ -9,7 +9,9 @@
 
 # Launch bar pywal Script 
 
-~/.config/polybar/colorblocks/scripts/pywal.sh /home/gear/Pictures/wallpapers/MXSyPMM.jpg
+# ~/.config/polybar/colorblocks/scripts/pywal.sh /home/gear/Pictures/wallpapers/MXSyPMM.jpg
+
+~/.config/polybar/colorblocks/scripts/pywal.sh /home/gear/Pictures/wallpapers/purple_custom_3.jpg
 
 ~/.config/polybar/launch.sh --colorblocks 2>&1 | tee -a tmp/polybar_colorblocks.log & disown
 
