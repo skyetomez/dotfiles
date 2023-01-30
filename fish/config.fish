@@ -12,4 +12,4 @@ set -x PATH /usr/local/go/bin:$PATH:$GOPATH/bin
 # eval /home/gear/miniconda3/bin/conda "shell.fish" "hook" $argv | source
 # <<< conda initialize <<<
 
-cat ~/.cache/wal/sequences &
+# cat ~/.cache/wal/sequences &
