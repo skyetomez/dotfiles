@@ -1,0 +1,21 @@
+set $wallpaper /home/gear/Pictures/Wal/saturn.png
+
+set $background #080708
+set $foreground #dfddd2
+
+set $color0 #080708
+set $color1 #74706E
+set $color2 #837C78
+set $color3 #88827C
+set $color4 #798185
+set $color5 #9A9A94
+set $color6 #C0BFB1
+set $color7 #dfddd2
+set $color8 #9c9a93
+set $color9 #74706E
+set $color10 #837C78
+set $color11 #88827C
+set $color12 #798185
+set $color13 #9A9A94
+set $color14 #C0BFB1
+set $color15 #dfddd2

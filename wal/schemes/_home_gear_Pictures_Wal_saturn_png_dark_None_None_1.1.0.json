@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gear/Pictures/Wal/saturn.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080708",
+        "foreground": "#dfddd2",
+        "cursor": "#dfddd2"
+    },
+    "colors": {
+        "color0": "#080708",
+        "color1": "#74706E",
+        "color2": "#837C78",
+        "color3": "#88827C",
+        "color4": "#798185",
+        "color5": "#9A9A94",
+        "color6": "#C0BFB1",
+        "color7": "#dfddd2",
+        "color8": "#9c9a93",
+        "color9": "#74706E",
+        "color10": "#837C78",
+        "color11": "#88827C",
+        "color12": "#798185",
+        "color13": "#9A9A94",
+        "color14": "#C0BFB1",
+        "color15": "#dfddd2"
+    }
+}
